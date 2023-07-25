@@ -9,5 +9,4 @@ I'm enthusiastic about collaborating on projects that involve biostatistics, sta
 
 I look forward to engaging in exciting projects and making a positive impact together! 🤝
 
-<i>**Learning is an ongoing journey, not just a destination. The continuous acquisition of new knowledge is crucial for gaining diverse perspectives and valuable insights.
-**</i>
+<i>**Learning is an ongoing journey, not just a destination. The continuous acquisition of new knowledge is crucial for gaining diverse perspectives and valuable insights.**</i>
