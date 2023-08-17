@@ -2,7 +2,7 @@
   <img src="https://thumbs.dreamstime.com/b/friendship-cartoon-illustration-group-six-happy-friends-boys-girls-hugging-each-other-including-nice-to-meet-you-title-135731906.jpg" width=30% />  
 </p>
 
-Welcome to my [<img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=5% />](https://github.com/wongkhoon) profile! I'm a seasoned professional with over a decade of experience in biostatistics and statistical programming across diverse settings, including academia, start-up, and multinational pharmaceutical company. I am thrilled to be part of the [<img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=5% />](https://github.com/dashboard) community, where I can leverage my expertise and learn from the kind souls who are supportive and passionate about sharing their knowledge and experience.
+Welcome to my [<img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=5% />](https://github.com/wongkhoon) profile! I'm a seasoned professional with over a decade of experience in biostatistics and statistical programming across diverse settings, including academia, start-up, and multinational pharmaceutical company. I am thrilled to be part of the [<img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width=5% />](https://github.com/dashboard) community, where I can leverage my expertise and learn from the kind souls who are not only supportive but also enthusiastic about sharing their wisdom and experiences to uplift each other.
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/507917029/vector/vector-concept-of-creative-teamwork.jpg?s=612x612&w=0&k=20&c=VTO2WCDm9rbpjkyOxMXdAEe-M9kJDt1WUJOI8ucg4T0=" width=19% />  
