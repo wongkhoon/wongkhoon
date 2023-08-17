@@ -19,7 +19,7 @@ I look forward to engaging in exciting projects and making a positive impact tog
   <img src="https://media.tenor.com/jXicH0k1tsUAAAAM/work-shake.gif" width=10%>
 </p>
 
-<i>**Learning is an ongoing journey, not just a destination. The continuous acquisition of new knowledge is crucial for gaining diverse perspectives and valuable insights.**</i>
+<i>**Learning is a perpetual journey, not merely a destination. The ceaseless pursuit of new knowledge is pivotal in attaining varied perspectives and invaluable insights, thereby expanding one's horizons.**</i>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C5112AQGpOqMF_vpR0w/article-cover_image-shrink_720_1280/0/1582376248625?e=2147483647&v=beta&t=cg53u7Re5pZkzzMLGkiyzXUkISY9XiPUQKrfqcWWWls" width=50% />  
 </p>
