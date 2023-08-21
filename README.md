@@ -23,3 +23,7 @@ I look forward to engaging in exciting projects and making a positive impact tog
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C5112AQGpOqMF_vpR0w/article-cover_image-shrink_720_1280/0/1582376248625?e=2147483647&v=beta&t=cg53u7Re5pZkzzMLGkiyzXUkISY9XiPUQKrfqcWWWls" width=50% />  
 </p>
+
+<p align="center">
+  <img src="http://img.picturequotes.com/2/451/450094/we-live-and-learn-or-perhaps-more-importantly-we-learn-and-live-quote-1.jpg" width=30% />  
+</p>
